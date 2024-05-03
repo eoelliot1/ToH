@@ -1,5 +1,5 @@
 // -----------------------------------------------------------------------------
-// Author: Elliot Ofesi, Sanjay Bhattacherjee
+// Author: Elliot Ofesi
 // Module: COMP5180
 // 	Assignment 2 (2021-22)
 // 	Task 2 (dummy program)
