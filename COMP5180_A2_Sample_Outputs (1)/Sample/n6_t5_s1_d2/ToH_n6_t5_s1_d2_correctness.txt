@@ -1,0 +1,123 @@
+
+The status of all the towers at the start is as follows:
+Tower 1: [6, 5, 4, 3, 2, 1]
+Tower 2: []
+Tower 3: []
+Tower 4: []
+Tower 5: []
+
+Move: disc 1 from tower 1 to tower 4
+Tower 1: [6, 5, 4, 3, 2]
+Tower 2: []
+Tower 3: []
+Tower 4: [1]
+Tower 5: []
+
+Move: disc 2 from tower 1 to tower 2
+Tower 1: [6, 5, 4, 3]
+Tower 2: [2]
+Tower 3: []
+Tower 4: [1]
+Tower 5: []
+
+Move: disc 3 from tower 1 to tower 3
+Tower 1: [6, 5, 4]
+Tower 2: [2]
+Tower 3: [3]
+Tower 4: [1]
+Tower 5: []
+
+Move: disc 2 from tower 2 to tower 3
+Tower 1: [6, 5, 4]
+Tower 2: []
+Tower 3: [3, 2]
+Tower 4: [1]
+Tower 5: []
+
+Move: disc 1 from tower 4 to tower 3
+Tower 1: [6, 5, 4]
+Tower 2: []
+Tower 3: [3, 2, 1]
+Tower 4: []
+Tower 5: []
+
+Move: disc 4 from tower 1 to tower 5
+Tower 1: [6, 5]
+Tower 2: []
+Tower 3: [3, 2, 1]
+Tower 4: []
+Tower 5: [4]
+
+Move: disc 5 from tower 1 to tower 4
+Tower 1: [6]
+Tower 2: []
+Tower 3: [3, 2, 1]
+Tower 4: [5]
+Tower 5: [4]
+
+Move: disc 6 from tower 1 to tower 2
+Tower 1: []
+Tower 2: [6]
+Tower 3: [3, 2, 1]
+Tower 4: [5]
+Tower 5: [4]
+
+Move: disc 5 from tower 4 to tower 2
+Tower 1: []
+Tower 2: [6, 5]
+Tower 3: [3, 2, 1]
+Tower 4: []
+Tower 5: [4]
+
+Move: disc 4 from tower 5 to tower 2
+Tower 1: []
+Tower 2: [6, 5, 4]
+Tower 3: [3, 2, 1]
+Tower 4: []
+Tower 5: []
+
+Move: disc 1 from tower 3 to tower 4
+Tower 1: []
+Tower 2: [6, 5, 4]
+Tower 3: [3, 2]
+Tower 4: [1]
+Tower 5: []
+
+Move: disc 2 from tower 3 to tower 1
+Tower 1: [2]
+Tower 2: [6, 5, 4]
+Tower 3: [3]
+Tower 4: [1]
+Tower 5: []
+
+Move: disc 3 from tower 3 to tower 2
+Tower 1: [2]
+Tower 2: [6, 5, 4, 3]
+Tower 3: []
+Tower 4: [1]
+Tower 5: []
+
+Move: disc 2 from tower 1 to tower 2
+Tower 1: []
+Tower 2: [6, 5, 4, 3, 2]
+Tower 3: []
+Tower 4: [1]
+Tower 5: []
+
+Move: disc 1 from tower 4 to tower 2
+Tower 1: []
+Tower 2: [6, 5, 4, 3, 2, 1]
+Tower 3: []
+Tower 4: []
+Tower 5: []
+
+The status of all the towers at the end is as follows:
+Tower 1: []
+Tower 2: [6, 5, 4, 3, 2, 1]
+Tower 3: []
+Tower 4: []
+Tower 5: []
+
+The sequence of moves is correct.
+
+

@@ -1,0 +1,133 @@
+
+The status of all the towers at the start is as follows:
+Tower 1: [10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+Tower 2: []
+Tower 3: []
+Tower 4: []
+Tower 5: []
+
+Move: disc 1 from tower 1 to tower 5
+Tower 1: [10, 9, 8, 7, 6, 5, 4, 3, 2]
+Tower 2: []
+Tower 3: []
+Tower 4: []
+Tower 5: [1]
+
+Move: disc 2 from tower 1 to tower 4
+Tower 1: [10, 9, 8, 7, 6, 5, 4, 3]
+Tower 2: []
+Tower 3: []
+Tower 4: [2]
+Tower 5: [1]
+
+Move: disc 3 from tower 1 to tower 2
+Tower 1: [10, 9, 8, 7, 6, 5, 4]
+Tower 2: [3]
+Tower 3: []
+Tower 4: [2]
+Tower 5: [1]
+
+Move: disc 4 from tower 1 to tower 3
+Tower 1: [10, 9, 8, 7, 6, 5]
+Tower 2: [3]
+Tower 3: [4]
+Tower 4: [2]
+Tower 5: [1]
+
+Move: disc 3 from tower 2 to tower 3
+Tower 1: [10, 9, 8, 7, 6, 5]
+Tower 2: []
+Tower 3: [4, 3]
+Tower 4: [2]
+Tower 5: [1]
+
+Move: disc 2 from tower 4 to tower 3
+Tower 1: [10, 9, 8, 7, 6, 5]
+Tower 2: []
+Tower 3: [4, 3, 2]
+Tower 4: []
+Tower 5: [1]
+
+Move: disc 1 from tower 5 to tower 3
+Tower 1: [10, 9, 8, 7, 6, 5]
+Tower 2: []
+Tower 3: [4, 3, 2, 1]
+Tower 4: []
+Tower 5: []
+
+Move: disc 5 from tower 1 to tower 5
+Tower 1: [10, 9, 8, 7, 6]
+Tower 2: []
+Tower 3: [4, 3, 2, 1]
+Tower 4: []
+Tower 5: [5]
+
+Move: disc 6 from tower 1 to tower 4
+Tower 1: [10, 9, 8, 7]
+Tower 2: []
+Tower 3: [4, 3, 2, 1]
+Tower 4: [6]
+Tower 5: [5]
+
+Move: disc 7 from tower 1 to tower 2
+Tower 1: [10, 9, 8]
+Tower 2: [7]
+Tower 3: [4, 3, 2, 1]
+Tower 4: [6]
+Tower 5: [5]
+
+Move: disc 6 from tower 4 to tower 2
+Tower 1: [10, 9, 8]
+Tower 2: [7, 6]
+Tower 3: [4, 3, 2, 1]
+Tower 4: []
+Tower 5: [5]
+
+Move: disc 5 from tower 5 to tower 2
+Tower 1: [10, 9, 8]
+Tower 2: [7, 6, 5]
+Tower 3: [4, 3, 2, 1]
+Tower 4: []
+Tower 5: []
+
+Move: disc 1 from tower 3 to tower 5
+Tower 1: [10, 9, 8]
+Tower 2: [7, 6, 5]
+Tower 3: [4, 3, 2]
+Tower 4: []
+Tower 5: [1]
+
+Move: disc 2 from tower 3 to tower 4
+Tower 1: [10, 9, 8]
+Tower 2: [7, 6, 5]
+Tower 3: [4, 3]
+Tower 4: [2]
+Tower 5: [1]
+
+Move: disc 3 from tower 3 to tower 1
+Tower 1: [10, 9, 8, 3]
+Tower 2: [7, 6, 5]
+Tower 3: [4]
+Tower 4: [2]
+Tower 5: [1]
+
+Move: disc 4 from tower 3 to tower 2
+Tower 1: [10, 9, 8, 3]
+Tower 2: [7, 6, 5, 4]
+Tower 3: []
+Tower 4: [2]
+Tower 5: [1]
+
+Move: disc 3 from tower 6 to tower 2
+Move Error: The source tower: 6 is out of range
+
+The status of all the towers at the end is as follows:
+Tower 1: [10, 9, 8, 3]
+Tower 2: [7, 6, 5, 4]
+Tower 3: []
+Tower 4: [2]
+Tower 5: [1]
+
+The sequence of moves is incorrect.
+
+
